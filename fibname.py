@@ -22,3 +22,9 @@ print("My surname is", name)
 print("The first letter", first, "is number", firstno)
 print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
+
+###
+Re: Fibonacci exercise responses
+by WAYNE REILLY - Thursday, 25 January 2018, 9:43 PM
+My name is Wayne, so the first and last letters of my name are (W+E = 23+5) 28. The 28th number in a Fibonacci Sequence is 317,811.
+###
